@@ -1,0 +1,6 @@
+numpy==1.26.3
+pandas==2.1.4
+requests==2.31.0
+requests-file==1.5.1
+selenium==4.16.0
+
